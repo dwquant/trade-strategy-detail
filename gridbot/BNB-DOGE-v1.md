@@ -1,8 +1,10 @@
 # BNB, DOGE V1 전략
-<img width="1805" height="800" alt="bokeh_plot (2)" src="https://github.com/user-attachments/assets/cb6745a1-029a-4a9c-9a4a-bb9a771404ec" />
-<img width="1805" height="800" alt="bokeh_plot (1)" src="https://github.com/user-attachments/assets/11823265-1ba5-4c11-8539-f21df6798c26" />
+
+![bokeh_plot](https://github.com/user-attachments/assets/1a4a463b-d7c2-4b67-a731-e358ea6cf12f)
+![coin_plot](https://github.com/user-attachments/assets/283585a3-f67f-428d-87cb-f3c7332faf21)
 
 ---
+
 
 ## 1. 요약 (Summary)
 
