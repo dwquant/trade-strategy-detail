@@ -1,5 +1,7 @@
 # 📘 BTCUSDT 롱 전략 백테스트 분석
 
+![bokeh_plot](https://github.com/user-attachments/assets/e2745fc0-97a7-4359-b7cb-b581f0654982)
+
 ## 📊 1. 요약 (Summary)
 
 | 항목 | 값 |
